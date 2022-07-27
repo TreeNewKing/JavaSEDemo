@@ -1,4 +1,5 @@
-import javax.swing.*;
+package com.I6;
+
 import javax.swing.Timer;
 import java.util.*;
 
