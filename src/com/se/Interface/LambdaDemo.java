@@ -1,4 +1,4 @@
-package com.I6;
+package com.se.Interface;
 
 import javax.swing.Timer;
 import java.util.*;

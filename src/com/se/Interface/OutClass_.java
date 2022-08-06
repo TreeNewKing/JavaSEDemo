@@ -1,4 +1,6 @@
-package com.I6;
+package com.se.Interface;
+
+import com.se.Interface.OutClass;
 
 //TODO 静态类可以被其他类使用,而非静态类不行
 public class OutClass_ {

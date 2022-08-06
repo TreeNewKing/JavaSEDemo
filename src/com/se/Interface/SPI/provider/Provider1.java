@@ -1,11 +1,10 @@
-package com.I6.SPI.Provider;
+package com.se.Interface.SPI.provider;
 
-import com.I6.SPI.API;
+import com.se.Interface.SPI.API;
 
 public class Provider1 implements API {
     @Override
     public String getInfo() {
         return "服务一";
-
     }
 }

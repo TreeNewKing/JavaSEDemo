@@ -1,4 +1,4 @@
-package com.I6;
+package com.se.Interface;
 
 public class OutClass {
     private final String role="root";

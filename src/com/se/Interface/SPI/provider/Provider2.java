@@ -1,6 +1,6 @@
-package com.I6.SPI.Provider;
+package com.se.Interface.SPI.provider;
 
-import com.I6.SPI.API;
+import com.se.Interface.SPI.API;
 
 public class Provider2 implements API {
 
