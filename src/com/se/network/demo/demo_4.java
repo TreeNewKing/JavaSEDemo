@@ -34,10 +34,11 @@ public class demo_4 {
 
     /**
      * todo 非阻塞套接字的使用
+     * http://www.blogjava.net/kata/articles/36218.html
      */
     public static void demo2(){
-        SocketChannel open = SocketChannel.open(new InetSocketAddress("baidu.com", 80));
-        Scanner scanner = new Scanner(open, StandardCharsets.UTF_8);
+//        SocketChannel open = SocketChannel.open(new InetSocketAddress("baidu.com", 80));
+//        Scanner scanner = new Scanner(open, StandardCharsets.UTF_8);
 
     }
 }
