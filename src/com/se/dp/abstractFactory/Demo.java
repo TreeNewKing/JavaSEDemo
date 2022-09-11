@@ -29,7 +29,7 @@ public class Demo {
     }
 
     public static void main(String[] args) {
-        Application app = configureApplication();
+        Application app = configureApplication();//构建
         app.paint();
     }
 }
