@@ -1,6 +1,6 @@
-package com.se.dp.ob.publisher;
+package com.se.dp.listener.publisher;
 
-import com.se.dp.ob.listeners.EventListener;
+import com.se.dp.listener.listeners.EventListener;
 
 import java.io.File;
 import java.util.ArrayList;

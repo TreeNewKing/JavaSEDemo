@@ -1,8 +1,8 @@
-package com.se.dp.ob;
+package com.se.dp.listener;
 
-import com.se.dp.ob.editor.Editor;
-import com.se.dp.ob.listeners.EmailNotificationListener;
-import com.se.dp.ob.listeners.LogOpenListener;
+import com.se.dp.listener.editor.Editor;
+import com.se.dp.listener.listeners.EmailNotificationListener;
+import com.se.dp.listener.listeners.LogOpenListener;
 
 public class Demo {
     public static void main(String[] args) {

@@ -25,6 +25,7 @@ public class Demo {
         downloader.renderVideoPage("catzzzzzzzzz");
         downloader.renderPopularVideos();
         downloader.renderVideoPage("dancesvideoo");
+
         // Users might visit the same page quite often.
         downloader.renderVideoPage("catzzzzzzzzz");
         downloader.renderVideoPage("someothervid");
